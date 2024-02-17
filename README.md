@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Muzammil Kabier
 -  Creating Computer Applications in the field of Drug Discovery
 -  Currently doing Mpharm Pharmaceutical Chemistry
+- <a href ="https://www.linkedin.com/in/muzammil-kabeer-6806ba25a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" >My LinkedIn Profile </a>
   
  <h1>Projects</h1>
  <h3>MzDOCK- Molecular Docking Application</h3>
